@@ -1,0 +1,39 @@
+Industry : 
+-------------------------------------------------------------------------------------------------------------
+
+1) Software Dev :- c / cpp / python / Java
+
+2) Website/webApplication Dev :- HTML / CSS / JS(JavaScript)
+
+
+HTML :- Basic Structure
+------------------------
+- HyperText Markup Language => HyperText = hyper link
+
+CSS :- Color and Animation
+------------------------
+- Cascading Style Sheet (WaterFall)
+
+JS :- Logic For website
+-----------------------
+- JavaScript 
+
+
+FrontEnd :- User Interface
+BackEnd :- DataBase and Connectivity
+
+
+<html> --> Starting of html file
+<head> --> html file heading
+<body> --> html file content
+
+.html / .htm  --> fileName.html 
+
+<html></html> --> block tag
+<br> / <br /> --> self closing tag
+
+SEO --> Search Engine Optimization
+
+
+
+
